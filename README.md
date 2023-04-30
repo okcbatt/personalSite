@@ -1,2 +1,2 @@
-Struggled with getting the pictures and the text to line up. Kept trying things I found to line the text to the top of the image instead of the bottom but couldn't get it to look correct.
-looking at examples maybe I need to break my text into more <p> and align them individualls
+enjoyed the assignment. cant wait to see it evolve as we learn more functionality
+also wanted to thank Ed for suggesting coolers. Im super colorblind and that helped picking colors that went together
