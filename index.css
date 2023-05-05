@@ -1,67 +1,95 @@
-.home{
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #313638;
+.home {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #313638;
 }
 
-.nav{
-    display: inline;
-    float: right;
-    padding: 10px;
-    border: 1px solid #F3F9D2;
+.nav {
+  display: inline;
+  float: right;
+  padding: 10px;
+  border: 1px solid #f3f9d2;
 }
 
-.nav a{
-    color: #F3F9D2;
-    text-decoration: none;
-    text-align: center;
+.nav a {
+  color: #f3f9d2;
+  text-decoration: none;
+  text-align: center;
 }
 
-#name{
-    float: left;
+#name {
+  float: left;
 }
 
-img{
-    display: block;
-    width: 500px;
-    height: auto;
-    margin-left: auto;
-    margin-right: auto;
+img {
+  /* display: block; */
+  width: 40%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
 }
 
-body{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 25px;
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 25px;
 }
 
-div{
-    color: #F3F9D2;
-    border-bottom: 1px solid #F3F9D2;
-    padding: 10px;
+div {
+  color: #f3f9d2;
+  border-bottom: 1px solid #f3f9d2;
+  padding: 10px;
 }
 
-body{
-    background-color: #F3F9D2;
+body {
+  background-color: #f3f9d2;
 }
 
-.intro{
-    text-align: center;
+
+h2 {
+  text-align: center;
+  color: #f3f9d2;
 }
 
-h2{
-    text-align: center;
+main {
+  width: 55%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #313638;
+  padding-top: 50px;
 }
 
-main{
-    width: 55%;
-    margin-left: auto;
-    margin-right: auto;
-    background-color: #313638;
-    padding-top: 50px;
+.fishing{
+  display: flex;
+  justify-content: space-around;
 }
 
-p{
-    display: block;
+.golf{
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row-reverse;
+}
+
+.hiking{
+  display: flex;
+  justify-content: space-around;
+}
+
+.project1{
+  display: flex;
+  justify-content: space-around;
+}
+
+.project2{
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row-reverse;
+}
+
+.project3{
+  display: flex;
+  justify-content: space-around;
 }
