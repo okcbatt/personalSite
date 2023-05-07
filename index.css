@@ -45,7 +45,10 @@ div {
 }
 
 body {
-  background-color: #f3f9d2;
+  /* background-color: #f3f9d2; */
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe3QkLmyKSX2bkPfQTSGCkQk8qqKv1V7TLH3Qs8NQe3AegVJuZbu2u266npknLHNKl4Co&usqp=CAU");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 
