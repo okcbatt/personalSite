@@ -9,7 +9,7 @@
 .nav {
   display: inline;
   float: right;
-  padding: 10px;
+  padding: .5rem;
   border: 1px solid #f3f9d2;
 }
 
@@ -29,7 +29,7 @@ img {
   height: auto;
   margin-left: auto;
   margin-right: auto;
-  padding: 20px;
+  padding: 1rem;
 }
 
 body {
@@ -41,7 +41,7 @@ body {
 div {
   color: #f3f9d2;
   border-bottom: 1px solid #f3f9d2;
-  padding: 10px;
+  padding: .1rem;
 }
 
 body {
@@ -62,7 +62,7 @@ main {
   margin-left: auto;
   margin-right: auto;
   background-color: #313638;
-  padding-top: 50px;
+  padding-top: 5rem;
 }
 
 .fishing{
@@ -95,4 +95,18 @@ main {
 .project3{
   display: flex;
   justify-content: space-around;
+}
+
+form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 50rem;
+}
+
+.intro{
+  text-align: center;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
 }
